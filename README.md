@@ -6,8 +6,11 @@ HopeStep LearningApp is a full-stack web application developed using **React, Sp
 
 The application provides a foundation for user account management, with a user interactive React frontend, a Spring Boot REST API backend, and a MySQL database for persistent data storage.
 
+<<<<<<< HEAD
 ## Full Allication UI
 ![HopeStep Full Application](./Hopestep_App.png)
+=======
+
 
 ## 🚀 Technologies Used
 
@@ -99,7 +102,7 @@ MySQL Database
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/RekSmru/Crud_Application_With_SpringBoot_-_React
 cd YOUR_REPOSITORY_NAME
 ```
 
