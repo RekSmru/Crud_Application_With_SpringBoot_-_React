@@ -7,7 +7,7 @@ HopeStep LearningApp is a full-stack web application developed using **React, Sp
 The application provides a foundation for user account management, with a user interactive React frontend, a Spring Boot REST API backend, and a MySQL database for persistent data storage.
 
 ## Application
-![HopeStep Full Application](HopeStep_reactApp/public/Hopestep_App.png)
+![HopeStep Full Application](./HopeStep_reactApp/public/Hopestep_App.png)
 
 ## 🚀 Technologies Used
 
