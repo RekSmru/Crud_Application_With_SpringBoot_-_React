@@ -97,7 +97,7 @@ MySQL Database
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/RekSmru/Crud_Application_With_SpringBoot_-_React
 cd YOUR_REPOSITORY_NAME
 ```
 
